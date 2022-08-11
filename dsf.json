@@ -1,0 +1,56 @@
+{
+  downlineStats: [
+    {
+      User: {
+        UserMembership: {
+          membership_code: MC,
+          membership_id: 08190003
+        },
+        Orders: [
+          {
+            OrderItems: [
+              {
+                total_price: 3600
+              }
+            ]
+          },
+          {
+            OrderItems: [
+              {
+                total_price: 6000
+              },
+              {
+                total_price: 2400
+              }
+            ]
+          }
+        ],
+        UserReferralTree: [
+          {
+            User: {
+              UserMembership: {
+                membership_code: MP,
+                membership_id: 08190004
+              },
+              Orders: [
+                {
+                  OrderItems: [
+                    {
+                      total_price: 4800
+                    },
+                    {
+                      total_price: 3600
+                    },
+                    {
+                      total_price: 7200
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

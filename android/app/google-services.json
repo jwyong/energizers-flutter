@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015228350493",
+    "firebase_url": "https://energizers-6a93d.firebaseio.com",
+    "project_id": "energizers-6a93d",
+    "storage_bucket": "energizers-6a93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015228350493:android:26cb3225bd1dfb9a",
+        "android_client_info": {
+          "package_name": "com.bsmfg.energizers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015228350493-7c85lff3gf45mjqinufh3a2hg94bl6fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7JyQ45ajaEN3eT7XJKqmHGJ2f-fcWvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015228350493-7c85lff3gf45mjqinufh3a2hg94bl6fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
