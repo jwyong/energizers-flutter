@@ -1,16 +1,3 @@
 # energizers
 
-Energizers app for BS
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Energizers app: a sales tracking app used by the client to record sales made by each salesPerson via product QR code scanning. The app supports localisation and uses GraphQL to query backend. Other notable features are visualising of sales statistics with a 3rd party graphs and charts library.
